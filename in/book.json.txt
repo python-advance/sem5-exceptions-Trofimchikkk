@@ -1,0 +1,16 @@
+{
+    "Partisipants": [
+        {
+            "Name": "Ivan",
+            "Surname": "Ivanov"
+        },
+        {
+            "Name": "Nick",
+            "Surname": "Nickolaev"
+        },
+        {
+            "Name": "Dmitry",
+            "Surname": "Trofimov"
+        }
+    ]
+}
